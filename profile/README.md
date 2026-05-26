@@ -1,6 +1,3 @@
-<p align="center">
-</p>
-
 <h1 align="center">Diginno</h1>
 <p align="center"><strong>Practical Lark systems, workflow automation, and AI operations for growing SMEs.</strong></p>
 
