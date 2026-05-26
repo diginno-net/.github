@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diginno-net/.github/main/profile/assets/banner.svg" alt="Diginno banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/diginno-net/.github/main/profile/assets/banner.png" alt="Diginno banner" width="100%" />
 </p>
 
 <h1 align="center">Diginno</h1>
