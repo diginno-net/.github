@@ -1,6 +1,4 @@
-<h1 align="center">Diginno</h1>
-<p align="center"><strong>Automation that removes busywork.</strong><br/>
-Real operational systems for Vietnamese SMEs — Lark · LarkBase · n8n · AI</p>
+<p align="center"><img src="https://raw.githubusercontent.com/diginno-net/.github/main/profile/assets/hero.svg" alt="Diginno — Automation that removes busywork" width="100%"></p>
 
 <p align="center">
   <a href="https://diginno.net"><img src="https://img.shields.io/badge/Website-diginno.net-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -8,7 +6,7 @@ Real operational systems for Vietnamese SMEs — Lark · LarkBase · n8n · AI</
   <img src="https://img.shields.io/badge/Focus-Lark%20%C2%B7%20n8n%20%C2%B7%20AI-0EA5E9?style=for-the-badge" alt="Focus" />
 </p>
 
-<p align="center"><a href="README.md">🇻🇳 Tiếng Việt</a> · 🇬🇧 <strong>English</strong> · <a href="README.zh.md">🇨🇳 中文</a></p>
+<p align="center"><a href="README.md">🇻🇳 Tiếng Việt</a> · 🇬🇧 <strong>English</strong> · <a href="README.zh.md">🇨🇳 中文</a> · <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.ms.md">🇲🇾 Bahasa Melayu</a> · <a href="README.th.md">🇹🇭 ไทย</a> · <a href="README.fil.md">🇵🇭 Filipino</a></p>
 
 Diginno is a Hanoi-based implementation studio building real operating systems with **Lark (LarkBase)**, **n8n**, system integrations, and AI. We move clients from manual spreadsheets to automated systems, and from fragmented data to real-time dashboards — prioritizing what runs in production over what looks good in a demo.
 
@@ -34,6 +32,8 @@ Diginno is a Hanoi-based implementation studio building real operating systems w
 - **Long-term partnership** — implement → train → operate → keep improving
 
 ## How we work
+
+<p align="center"><img src="https://raw.githubusercontent.com/diginno-net/.github/main/profile/assets/how-we-work.svg" alt="How we work: Understand → Design → Build → Add AI → Operate" width="100%"></p>
 
 1. Understand the business process first
 2. Design the data model and workflow

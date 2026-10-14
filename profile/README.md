@@ -1,6 +1,4 @@
-<h1 align="center">Diginno</h1>
-<p align="center"><strong>Tự động hoá để bớt việc.</strong><br/>
-Hệ thống vận hành thực tế cho SME Việt Nam — Lark · LarkBase · n8n · AI</p>
+<p align="center"><img src="https://raw.githubusercontent.com/diginno-net/.github/main/profile/assets/hero.svg" alt="Diginno — Tự động hoá để bớt việc" width="100%"></p>
 
 <p align="center">
   <a href="https://diginno.net"><img src="https://img.shields.io/badge/Website-diginno.net-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -8,7 +6,7 @@ Hệ thống vận hành thực tế cho SME Việt Nam — Lark · LarkBase · 
   <img src="https://img.shields.io/badge/Focus-Lark%20%C2%B7%20n8n%20%C2%B7%20AI-0EA5E9?style=for-the-badge" alt="Focus" />
 </p>
 
-<p align="center">🇻🇳 <strong>Tiếng Việt</strong> · <a href="README.en.md">🇬🇧 English</a> · <a href="README.zh.md">🇨🇳 中文</a></p>
+<p align="center">🇻🇳 <strong>Tiếng Việt</strong> · <a href="README.en.md">🇬🇧 English</a> · <a href="README.zh.md">🇨🇳 中文</a> · <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.ms.md">🇲🇾 Bahasa Melayu</a> · <a href="README.th.md">🇹🇭 ไทย</a> · <a href="README.fil.md">🇵🇭 Filipino</a></p>
 
 Diginno là studio triển khai tại Hà Nội, xây hệ thống vận hành thật bằng **Lark (LarkBase)**, **n8n**, tích hợp hệ thống và AI. Định hướng rõ: **Excel thủ công → hệ thống tự động**, **dữ liệu phân mảnh → dashboard realtime**. Ưu tiên chạy được, vận hành được, ra giá trị kinh doanh — không phải demo đẹp.
 
@@ -34,6 +32,8 @@ Diginno là studio triển khai tại Hà Nội, xây hệ thống vận hành t
 - **Đồng hành dài hạn** — triển khai → đào tạo → vận hành → tối ưu dần
 
 ## Cách làm việc
+
+<p align="center"><img src="https://raw.githubusercontent.com/diginno-net/.github/main/profile/assets/how-we-work.svg" alt="Cách làm việc: Hiểu → Thiết kế → Triển khai → Thêm AI → Vận hành" width="100%"></p>
 
 1. Hiểu quy trình kinh doanh trước
 2. Thiết kế data model & luồng công việc

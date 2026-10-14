@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220" viewBox="0 0 1100 220" role="img" aria-label="How we work: understand, design, build, add AI, operate">
+  <defs>
+    <pattern id="px2" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#1F2937" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1100" height="220" fill="#111827"/>
+  <rect width="1100" height="220" fill="url(#px2)" opacity="0.5"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Courier New', monospace">
+    <g>
+      <rect x="40" y="50" width="180" height="120" fill="#0B1220" stroke="#374151"/>
+      <text x="60" y="86" font-size="16" fill="#00E599">01</text>
+      <text x="60" y="120" font-size="17" font-weight="700" fill="#F9FAFB">UNDERSTAND</text>
+      <text x="60" y="146" font-size="13" fill="#9CA3AF">Business process</text>
+    </g>
+
+    <g>
+      <rect x="248" y="50" width="180" height="120" fill="#0B1220" stroke="#374151"/>
+      <text x="268" y="86" font-size="16" fill="#00E599">02</text>
+      <text x="268" y="120" font-size="17" font-weight="700" fill="#F9FAFB">DESIGN</text>
+      <text x="268" y="146" font-size="13" fill="#9CA3AF">Data &amp; workflow</text>
+    </g>
+
+    <g>
+      <rect x="456" y="50" width="180" height="120" fill="#0B1220" stroke="#374151"/>
+      <text x="476" y="86" font-size="16" fill="#00E599">03</text>
+      <text x="476" y="120" font-size="17" font-weight="700" fill="#F9FAFB">BUILD</text>
+      <text x="476" y="146" font-size="13" fill="#9CA3AF">n8n + integrations</text>
+    </g>
+
+    <g>
+      <rect x="664" y="50" width="180" height="120" fill="#0B1220" stroke="#374151"/>
+      <text x="684" y="86" font-size="16" fill="#00E599">04</text>
+      <text x="684" y="120" font-size="17" font-weight="700" fill="#F9FAFB">ADD AI</text>
+      <text x="684" y="146" font-size="13" fill="#9CA3AF">Where it pays</text>
+    </g>
+
+    <g>
+      <rect x="872" y="50" width="180" height="120" fill="#0B1220" stroke="#374151"/>
+      <text x="892" y="86" font-size="16" fill="#00E599">05</text>
+      <text x="892" y="120" font-size="17" font-weight="700" fill="#F9FAFB">OPERATE</text>
+      <text x="892" y="146" font-size="13" fill="#9CA3AF">Train &amp; improve</text>
+    </g>
+
+    <g font-size="26" fill="#00E599">
+      <text x="230" y="120">→</text>
+      <text x="438" y="120">→</text>
+      <text x="646" y="120">→</text>
+      <text x="854" y="120">→</text>
+    </g>
+  </g>
+</svg>
