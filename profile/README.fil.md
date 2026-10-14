@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-Lark%20%C2%B7%20n8n%20%C2%B7%20AI-0EA5E9?style=for-the-badge" alt="Focus" />
 </p>
 
-<p align="center"><a href="README.md">🇻🇳 Tiếng Việt</a> · <a href="README.en.md">🇬🇧 English</a> · <a href="README.zh.md">🇨🇳 中文</a> · <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.ms.md">🇲🇾 Bahasa Melayu</a> · <a href="README.th.md">🇹🇭 ไทย</a> · 🇵🇭 <strong>Filipino</strong></p>
+<p align="center"><a href="README.md">🇻🇳 Tiếng Việt</a> · <a href="README.en.md">🇬🇧 English</a> · <a href="README.zh.md">🇨🇳 中文</a> · <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.ms.md">🇲🇾 Bahasa Melayu</a> · <a href="README.th.md">🇹🇭 ไทย</a> · 🇵🇭 <strong>Filipino</strong> · 🇰🇭 <a href="README.km.md">ភាសាខ្មែរ</a> · 🇱🇦 <a href="README.lo.md">ລາວ</a> · 🇲🇲 <a href="README.my.md">မြန်မာ</a> · 🇹🇱 <a href="README.tet.md">Tetum</a></p>
 
 Ang Diginno ay isang implementation studio na nakabase sa Hanoi — gumagawa ng tunay na operating systems gamit ang **Lark (LarkBase)**, **n8n**, system integrations, at AI. Inaalis namin ang manu-manong Excel at pinagsasama ang nakakalat na data tungo sa real-time dashboards. Prayoridad namin: ang tumatakbo sa production, hindi lang magandang demo.
 

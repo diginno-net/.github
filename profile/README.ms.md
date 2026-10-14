@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-Lark%20%C2%B7%20n8n%20%C2%B7%20AI-0EA5E9?style=for-the-badge" alt="Focus" />
 </p>
 
-<p align="center"><a href="README.md">🇻🇳 Tiếng Việt</a> · <a href="README.en.md">🇬🇧 English</a> · <a href="README.zh.md">🇨🇳 中文</a> · <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> · 🇲🇾 <strong>Bahasa Melayu</strong> · <a href="README.th.md">🇹🇭 ไทย</a> · <a href="README.fil.md">🇵🇭 Filipino</a></p>
+<p align="center"><a href="README.md">🇻🇳 Tiếng Việt</a> · <a href="README.en.md">🇬🇧 English</a> · <a href="README.zh.md">🇨🇳 中文</a> · <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> · 🇲🇾 <strong>Bahasa Melayu</strong> · <a href="README.th.md">🇹🇭 ไทย</a> · <a href="README.fil.md">🇵🇭 Filipino</a> · 🇰🇭 <a href="README.km.md">ភាសាខ្មែរ</a> · 🇱🇦 <a href="README.lo.md">ລາວ</a> · 🇲🇲 <a href="README.my.md">မြန်မာ</a> · 🇹🇱 <a href="README.tet.md">Tetum</a></p>
 
 Diginno ialah studio pelaksanaan yang berpangkalan di Hanoi — membina sistem operasi sebenar dengan **Lark (LarkBase)**, **n8n**, integrasi sistem dan AI. Kami memindahkan klien daripada Excel manual kepada sistem automatik, dan daripada data yang berselerak kepada papan pemuka masa nyata. Keutamaan kami: apa yang benar-benar berjalan dalam produksi, bukan sekadar demo yang cantik.
 

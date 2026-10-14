@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-Lark%20%C2%B7%20n8n%20%C2%B7%20AI-0EA5E9?style=for-the-badge" alt="Focus" />
 </p>
 
-<p align="center"><a href="README.md">🇻🇳 Tiếng Việt</a> · <a href="README.en.md">🇬🇧 English</a> · 🇨🇳 <strong>中文</strong> · <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.ms.md">🇲🇾 Bahasa Melayu</a> · <a href="README.th.md">🇹🇭 ไทย</a> · <a href="README.fil.md">🇵🇭 Filipino</a></p>
+<p align="center"><a href="README.md">🇻🇳 Tiếng Việt</a> · <a href="README.en.md">🇬🇧 English</a> · 🇨🇳 <strong>中文</strong> · <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.ms.md">🇲🇾 Bahasa Melayu</a> · <a href="README.th.md">🇹🇭 ไทย</a> · <a href="README.fil.md">🇵🇭 Filipino</a> · 🇰🇭 <a href="README.km.md">ភាសាខ្មែរ</a> · 🇱🇦 <a href="README.lo.md">ລາວ</a> · 🇲🇲 <a href="README.my.md">မြန်မာ</a> · 🇹🇱 <a href="README.tet.md">Tetum</a></p>
 
 Diginno 是一家位于越南河内的落地实施工作室，用 **Lark（飞书）/LarkBase**、**n8n**、系统集成与 AI 搭建真正在用的运营系统：把「手工 Excel」变成「自动化系统」，把「分散数据」变成「实时看板」。我们看重的是能上线、能运营、能产生业务价值，而不是好看的演示。
 

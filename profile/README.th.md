@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-Lark%20%C2%B7%20n8n%20%C2%B7%20AI-0EA5E9?style=for-the-badge" alt="Focus" />
 </p>
 
-<p align="center"><a href="README.md">🇻🇳 Tiếng Việt</a> · <a href="README.en.md">🇬🇧 English</a> · <a href="README.zh.md">🇨🇳 中文</a> · <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.ms.md">🇲🇾 Bahasa Melayu</a> · 🇹🇭 <strong>ไทย</strong> · <a href="README.fil.md">🇵🇭 Filipino</a></p>
+<p align="center"><a href="README.md">🇻🇳 Tiếng Việt</a> · <a href="README.en.md">🇬🇧 English</a> · <a href="README.zh.md">🇨🇳 中文</a> · <a href="README.id.md">🇮🇩 Bahasa Indonesia</a> · <a href="README.ms.md">🇲🇾 Bahasa Melayu</a> · 🇹🇭 <strong>ไทย</strong> · <a href="README.fil.md">🇵🇭 Filipino</a> · 🇰🇭 <a href="README.km.md">ភាសាខ្មែរ</a> · 🇱🇦 <a href="README.lo.md">ລາວ</a> · 🇲🇲 <a href="README.my.md">မြန်မာ</a> · 🇹🇱 <a href="README.tet.md">Tetum</a></p>
 
 Diginno คือสตูดิโอที่ปรึกษาและติดตั้งระบบจากกรุงฮานอย ประเทศเวียดนาม — สร้างระบบปฏิบัติการจริงด้วย **Lark (LarkBase)**, **n8n**, การเชื่อมต่อระบบ และ AI เปลี่ยนงาน Excel ด้วยมือให้เป็นระบบอัตโนมัติ และเปลี่ยนข้อมูลที่กระจัดกระจายให้เป็นแดชบอร์ดเรียลไทม์ เราให้ความสำคัญกับสิ่งที่ใช้งานได้จริงในโปรดักชัน ไม่ใช่แค่เดโมสวยงาม
 
