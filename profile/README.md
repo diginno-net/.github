@@ -1,5 +1,6 @@
 <h1 align="center">Diginno</h1>
-<p align="center"><strong>Practical Lark systems, workflow automation, and AI operations for growing SMEs.</strong></p>
+<p align="center"><strong>Tự động hoá để bớt việc.</strong><br/>
+Hệ thống vận hành thực tế cho SME Việt Nam — Lark · LarkBase · n8n · AI</p>
 
 <p align="center">
   <a href="https://diginno.net"><img src="https://img.shields.io/badge/Website-diginno.net-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -7,41 +8,47 @@
   <img src="https://img.shields.io/badge/Focus-Lark%20%C2%B7%20n8n%20%C2%B7%20AI-0EA5E9?style=for-the-badge" alt="Focus" />
 </p>
 
-<p align="center">
-  Diginno is a Vietnam-based implementation studio building real operational systems with <strong>Lark</strong>, <strong>n8n</strong>, integrations, and AI-assisted workflows.<br/>
-  <sub>Chúng tôi giúp SME xây hệ thống vận hành thực tế — ưu tiên hiệu quả, khả năng vận hành, và giá trị kinh doanh hơn là demo đẹp.</sub>
-</p>
+<p align="center">🇻🇳 <strong>Tiếng Việt</strong> · <a href="README.en.md">🇬🇧 English</a> · <a href="README.zh.md">🇨🇳 中文</a></p>
 
-## What we build
+Diginno là studio triển khai tại Hà Nội, xây hệ thống vận hành thật bằng **Lark (LarkBase)**, **n8n**, tích hợp hệ thống và AI. Định hướng rõ: **Excel thủ công → hệ thống tự động**, **dữ liệu phân mảnh → dashboard realtime**. Ưu tiên chạy được, vận hành được, ra giá trị kinh doanh — không phải demo đẹp.
 
-| Area | What it means |
+## Chúng tôi xây gì
+
+| Mảng | Nội dung |
 |---|---|
-| **Lark / LarkBase systems** | CRM, HRM, finance operations, approval flows, and internal operating systems |
-| **n8n workflow automation** | Production workflows that sync systems, reduce manual work, and improve data quality |
-| **AI operations** | AI-assisted workflows with human approval, auditability, and practical business use cases |
-| **Dashboards & integrations** | Web dashboards, API bridges, and operational tooling across business systems |
+| **Hệ thống trên Lark / LarkBase** | CRM · nhân sự – chấm công – lương · kho vận & POD · tài chính – hoá đơn · phê duyệt · KPI/hoa hồng — dựng thành hệ điều hành nội bộ |
+| **Tự động hoá n8n** | Hàng trăm workflow production: đồng bộ hệ thống, giảm việc tay, chuẩn hoá & kiểm soát dữ liệu |
+| **Tích hợp** | LarkSuite · Pancake · TikTok Shop · Shopee · KiotViet · NhanhVN · MISA · cổng thanh toán · API riêng |
+| **Dữ liệu & báo cáo** | PostgreSQL/DWH, ETL, dashboard realtime, báo cáo doanh thu – P&L |
+| **AI vận hành** | AI agent & chatbot CSKH, AI gateway nội bộ, tự động hoá có người duyệt và log kiểm tra |
 
-## Why Diginno
+**Sản phẩm & công cụ:** ZaloCRM (quản lý đa tài khoản Zalo + AI CSKH, PWA) · DigiHub (lớp kết nối & đồng bộ dữ liệu cho SME).
 
-- **Deep Lark specialization** for business operations and data design
-- **Strong n8n execution** across multi-step workflows and integrations
-- **Business-first approach**: process, KPI, and operational fit before tools
-- **Production mindset**: approvals, logs, permissions, and maintainability matter
-- **Built from real delivery experience**, not just internal experiments
+## Vì sao chọn Diginno
 
-## How we work
+- **Chuyên sâu Lark/LarkBase** cho bài toán vận hành và thiết kế dữ liệu
+- **n8n production thật** — nhiều workflow, nhiều hệ thống, có giám sát
+- **Business-first** — quy trình, KPI, cách vận hành có trước; công cụ sau
+- **Tư duy production** — phê duyệt, log, phân quyền, bàn giao, bảo trì đều được tính từ đầu
+- **Đúc từ dự án thật** — không phải thí nghiệm nội bộ
+- **Đồng hành dài hạn** — triển khai → đào tạo → vận hành → tối ưu dần
 
-1. Understand the business process first  
-2. Design the data model and workflow  
-3. Implement automation and integrations  
-4. Add AI where it creates real operational value  
-5. Support rollout, training, and iteration
+## Cách làm việc
 
-## Notes on public work
+1. Hiểu quy trình kinh doanh trước
+2. Thiết kế data model & luồng công việc
+3. Triển khai automation & tích hợp
+4. Thêm AI ở chỗ tạo giá trị vận hành thật
+5. Bàn giao, đào tạo và hỗ trợ vận hành
 
-Many client implementations remain private because they contain internal workflows, business data structures, or sensitive operational logic. Public technical showcases will be shared selectively.
+## Ghi chú về phần việc công khai
 
-## Contact
+Phần lớn hệ thống khách hàng được giữ private vì chứa logic vận hành và dữ liệu nội bộ. Các phần kỹ thuật chia sẻ công khai sẽ được chọn lọc.
+
+## Liên hệ
 
 - Website: [diginno.net](https://diginno.net)
 - Email: [contact@diginno.net](mailto:contact@diginno.net)
+- Hotline / Zalo: 0816 226 086
+- Địa chỉ: 885 Tam Trinh, Hoàng Mai, Hà Nội
+- Giờ làm việc: T2–T7, 8h–12h & 14h–18h
